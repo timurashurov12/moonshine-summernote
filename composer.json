@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Timurasurov12\\Summernote\\": "src/"
+            "Timurasurov12\\Summernote\\": "src"
         }
     },
     "extra": {
