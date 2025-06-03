@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Timurashurov12\\Summernote\\Providers\\SummernoteServiceProvider"
+                "Timurasurov12\\Summernote\\Providers\\SummernoteServiceProvider"
             ]
         }
     }
