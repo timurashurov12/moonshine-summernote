@@ -1,5 +1,7 @@
 # Summernote поле для [MoonShine Laravel admin panel](https://moonshine-laravel.com)
 
+Документация [Summernote](https://summernote.org/) 
+
 ### Requirements
 
 - MoonShine v3.0+ 
