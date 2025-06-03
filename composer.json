@@ -1,0 +1,27 @@
+{
+    "name": "timurasurov12/summernote",
+    "description": "Summernote field for MoonShine Laravel admin panel",
+    "minimum-stability": "stable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timur Ashurov",
+            "email": "tima12.09.95@gmail.com",
+            "homepage": "https://github.com/timurashurov12"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+     "conflict": {
+        "moonshine/moonshine": "<3.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Timurashurov12\\Summernote\\Providers\\SummernoteServiceProvider"
+            ]
+        }
+    }
+}
