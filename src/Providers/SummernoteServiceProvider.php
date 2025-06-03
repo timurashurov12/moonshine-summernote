@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Timurashurov12\Summernote\Providers;
+namespace Timurasurov12\Summernote\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
