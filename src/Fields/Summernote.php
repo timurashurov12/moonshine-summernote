@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Timurashurov12\Summernote\Fields;
+namespace Timurasurov12\Summernote\Fields;
 
 use MoonShine\AssetManager\Css;
 use MoonShine\AssetManager\Js;
