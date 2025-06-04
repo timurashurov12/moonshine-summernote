@@ -30,7 +30,7 @@ final class SummernoteServiceProvider extends ServiceProvider
             [
                 __DIR__ . '/../../public' => public_path('vendor/timurashurov12-summernote'),
             ],
-            ['timurashurov12-summernote']
+            ['timurashurov12-summernote', 'laravel-assets']
         );
     }
 }
